@@ -13,7 +13,7 @@ Boklån utvecklas av Scharinger Tech. Frågor om den här policyn skickar du til
 ## Vad som sparas på telefonen
 
 - Lånekortsnummer och PIN-kod för de konton du lägger till. De sparas krypterat i telefonens säkra lagring.
-- Kontots namn, färg och bibliotek.
+- Kontots namn och inställningar, och vilket bibliotek kontot hör till.
 - En kopia av dina lån och reservationer, så att de kan visas utan att appen loggar in varje gång.
 - En logg över appens inloggningar hos biblioteket: tid, konto och resultat. Högst 300 rader. Kortnumret visas maskerat och PIN-koden sparas aldrig där.
 - Om biblioteket har nekat ett kontos PIN-kod eller spärrat kontot: en markering på kontot, så att appen inte försöker igen förrän du har ändrat PIN-koden.
