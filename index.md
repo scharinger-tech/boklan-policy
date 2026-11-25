@@ -38,10 +38,6 @@ Ingenting skickas till oss eller till någon annan.
 
 Påminnelser om återlämning schemaläggs på telefonen. De skickas inte via någon server.
 
-## Barns lånekort
-
-Du kan lägga till ett barns lånekort. Uppgifterna hanteras som alla andra och stannar på telefonen. Den som lägger till ett kort ansvarar för att få använda uppgifterna.
-
 ## Behörigheter
 
 - Internet, för att nå biblioteket.
